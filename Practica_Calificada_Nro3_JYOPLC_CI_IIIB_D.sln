@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_Calificada_Nro3_JYOPLC_CI_IIIB_D", "Practica_Calificada_Nro3_JYOPLC_CI_IIIB_D\Practica_Calificada_Nro3_JYOPLC_CI_IIIB_D.csproj", "{38B652CB-1FB7-4D1A-8CB4-C988C92A89AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B652CB-1FB7-4D1A-8CB4-C988C92A89AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B652CB-1FB7-4D1A-8CB4-C988C92A89AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B652CB-1FB7-4D1A-8CB4-C988C92A89AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B652CB-1FB7-4D1A-8CB4-C988C92A89AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88EF68A-0692-4833-84F5-1B5B51AA1442}
+	EndGlobalSection
+EndGlobal
